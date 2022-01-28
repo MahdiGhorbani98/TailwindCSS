@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TailwindCSS/static/css/main.4789a950.css",
+    "main.js": "/TailwindCSS/static/js/main.18f88182.js",
+    "static/js/787.83cb65c7.chunk.js": "/TailwindCSS/static/js/787.83cb65c7.chunk.js",
+    "static/media/stew.jpg": "/TailwindCSS/static/media/stew.e2a7175cadeec52ad7d8.jpg",
+    "index.html": "/TailwindCSS/index.html",
+    "main.4789a950.css.map": "/TailwindCSS/static/css/main.4789a950.css.map",
+    "main.18f88182.js.map": "/TailwindCSS/static/js/main.18f88182.js.map",
+    "787.83cb65c7.chunk.js.map": "/TailwindCSS/static/js/787.83cb65c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4789a950.css",
+    "static/js/main.18f88182.js"
+  ]
+}
